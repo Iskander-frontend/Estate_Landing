@@ -1,0 +1,35 @@
+@import "vars";
+
+.newsroom{
+  background: $section-bg;
+  padding: 6.25rem 0;
+}
+.newsroom__items{
+  display: flex;
+  justify-content: space-between;
+  gap: 1.25rem;
+}
+.newsroom__item{
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
+  -webkit-border-radius: 0.625rem;
+  -moz-border-radius: 10.625rem;
+  border-radius: 0.625rem;
+  overflow: hidden;
+  background: $white;
+
+}
+.newsroom__text{
+  padding: 1.875rem;
+  .desc{
+    padding: 0.625rem 0;
+  }
+}
+.newsroom__top{
+  text-align: center;
+  padding-bottom: 1.25rem;
+}
+.newsroom__bottom{
+  display: flex;
+  justify-content: center;
+  padding-top: 1.25rem;
+}

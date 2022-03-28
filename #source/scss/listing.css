@@ -1,0 +1,50 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/listing\.scss}line{font-family:\000033}}
+.listing {
+  background: #FAFAFC;
+  padding: 6.25rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/listing\.scss}line{font-family:\000037}}
+.listing__top {
+  max-width: 50%;
+  padding-bottom: 30px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/listing\.scss}line{font-family:\0000311}}
+.listing__bottom {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/listing\.scss}line{font-family:\0000316}}
+.listing__items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1.25rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/listing\.scss}line{font-family:\0000322}}
+.listing__item {
+  text-align: center;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.03);
+  border-radius: 8px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/listing\.scss}line{font-family:\0000326}}
+  .listing__item img {
+    max-width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/listing\.scss}line{font-family:\0000330}}
+.listing__icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/listing\.scss}line{font-family:\0000336}}
+.listing__icon {
+  display: flex;
+  align-items: center;
+  gap: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/listing\.scss}line{font-family:\0000341}}
+.listing__text {
+  padding: 1.25rem; }
+
+/*# sourceMappingURL=listing.css.map */

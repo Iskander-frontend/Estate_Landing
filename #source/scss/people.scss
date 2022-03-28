@@ -1,0 +1,34 @@
+@import "vars";
+
+.people__box{
+  display: flex;
+  justify-content: space-between;
+  padding: 6.25rem 0;
+}
+.people__text{
+  max-width: 30%;
+  .desc{
+    padding: 1.25rem 0;
+  }
+}
+.people__cards{
+  display: grid;
+  grid-template-columns: repeat(2, 45%);
+  gap: 1rem 4rem;
+}
+.people-card{
+  display: flex;
+  align-items: center;
+  min-width: 350px;
+  .people-card__text{
+    display: flex;
+    flex-direction: column;
+  }
+  img{
+    margin-right: 0.625rem;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border: 2px solid #CACCD1;
+  }
+}

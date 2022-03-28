@@ -1,0 +1,152 @@
+@media (max-width: 1200px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\000034}}
+  .requirement__box-second {
+    flex-direction: column;
+    gap: 3.125rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\000038}}
+  .people__box {
+    justify-content: space-around; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000311}}
+  .listing__items {
+    justify-content: space-around; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000314}}
+  .people-card {
+    min-width: 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000317}}
+  .newsroom__items {
+    flex-direction: column; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000320}}
+  .newsroom__item {
+    display: flex; } }
+@media (max-width: 1024px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000325}}
+  .people__box {
+    flex-direction: column;
+    gap: 30px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000329}}
+  .people__text, .listing__top {
+    max-width: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000332}}
+  .footer__input {
+    max-width: none;
+    padding: 1rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000336}}
+  .form {
+    flex-direction: column;
+    padding: 0.438rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000340}}
+  .testimonials {
+    margin: 6.25rem 0 9.375rem 0; } }
+@media (max-width: 768px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000345}}
+  .hamburger {
+    display: block;
+    z-index: 100; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000349}}
+  .header__menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 15px;
+    background: #FAFAFC;
+    color: #fff;
+    transform: translateY(-100%);
+    transition: transform 0.5s;
+    overflow: hidden; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000365}}
+    .header__menu.active {
+      display: flex;
+      align-items: center;
+      text-transform: uppercase;
+      transform: translateX(0);
+      background: #fff;
+      color: #45525B; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000372}}
+      .header__menu.active .header__item {
+        font-size: 2rem;
+        padding: 1.25rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000378}}
+  .nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    background: #FAFAFC;
+    z-index: 10; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000387}}
+  .goal__inner {
+    display: flex;
+    flex-direction: column;
+    gap: 3.125rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000392}}
+  .requirement__content {
+    flex-direction: column;
+    align-items: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000396}}
+  .requirement__items {
+    flex-direction: row; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\0000399}}
+  .requirement__item {
+    max-width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\00003102}}
+  .swiper {
+    height: 25rem; } }
+@media (max-width: 600px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\00003107}}
+  .requirement__items {
+    flex-direction: column;
+    gap: 1.875rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\00003111}}
+  .newsroom__item {
+    flex-direction: column;
+    align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\00003114}}
+    .newsroom__item img {
+      width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\00003118}}
+  .goal__inner, .listing, .requirement__box, .requirement__box-second, .people__box, .newsroom {
+    padding: 3.25rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\00003121}}
+  .people__cards {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\00003127}}
+  .footer__bottom {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3.125rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/media\.scss}line{font-family:\00003132}}
+  .footer {
+    padding: 3.25rem 0; } }
+
+/*# sourceMappingURL=media.css.map */

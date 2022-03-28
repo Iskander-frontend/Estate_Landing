@@ -1,0 +1,13 @@
+$body-color: #45525B;
+$body-subcolor: #6F7278;
+$star-color: #52503B;
+$dark-gray: #333;
+$footer-bg: #292C32;
+$section-bg: #FAFAFC;
+$white: #fff;
+$heading-color: #FF8A63;
+
+@mixin card__desc{
+  font-size: 32px;
+  line-height: 140%;
+}

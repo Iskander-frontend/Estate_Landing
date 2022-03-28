@@ -1,0 +1,41 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/contact\.scss}line{font-family:\000033}}
+.contact {
+  color: #fff;
+  background: #45525B; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/contact\.scss}line{font-family:\000036}}
+  .contact .desc {
+    padding-top: 10px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/contact\.scss}line{font-family:\000039}}
+  .contact .section__name, .contact .section__heading, .contact .desc {
+    color: #fff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/contact\.scss}line{font-family:\0000313}}
+.contact__box {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 6.25rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/contact\.scss}line{font-family:\0000319}}
+.btn__box {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 20px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/contact\.scss}line{font-family:\0000325}}
+.filled__btn {
+  font-family: Poppins, sans-serif;
+  display: block;
+  background: #fff;
+  color: #45525B;
+  padding: 0.625rem 1.125rem;
+  border-radius: 6px;
+  overflow: hidden;
+  transition: all .3s ease; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/contact\.scss}line{font-family:\0000334}}
+  .filled__btn:hover {
+    background: #333;
+    color: #fff; }
+
+/*# sourceMappingURL=contact.css.map */

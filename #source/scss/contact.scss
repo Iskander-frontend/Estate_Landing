@@ -1,0 +1,38 @@
+@import "vars";
+
+.contact{
+  color: $white;
+  background: $body-color;
+  .desc{
+    padding-top: 10px;
+  }
+  .section__name, .section__heading, .desc{
+    color: $white;
+  }
+}
+.contact__box{
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 6.25rem 0;
+}
+.btn__box{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 20px;
+}
+.filled__btn {
+  font-family: Poppins, sans-serif;
+  display: block;
+  background: $white;
+  color: $body-color;
+  padding: 0.625rem 1.125rem;
+  border-radius: 6px;
+  overflow: hidden;
+  transition: all .3s ease;
+  &:hover{
+    background: $dark-gray;
+    color: $white;
+  }
+}

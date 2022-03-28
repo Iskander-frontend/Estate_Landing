@@ -1,0 +1,37 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/people\.scss}line{font-family:\000033}}
+.people__box {
+  display: flex;
+  justify-content: space-between;
+  padding: 6.25rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/people\.scss}line{font-family:\000038}}
+.people__text {
+  max-width: 30%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/people\.scss}line{font-family:\0000310}}
+  .people__text .desc {
+    padding: 1.25rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/people\.scss}line{font-family:\0000314}}
+.people__cards {
+  display: grid;
+  grid-template-columns: repeat(2, 45%);
+  gap: 1rem 4rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/people\.scss}line{font-family:\0000319}}
+.people-card {
+  display: flex;
+  align-items: center;
+  min-width: 350px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/people\.scss}line{font-family:\0000323}}
+  .people-card .people-card__text {
+    display: flex;
+    flex-direction: column; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/people\.scss}line{font-family:\0000327}}
+  .people-card img {
+    margin-right: 0.625rem;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    border: 2px solid #CACCD1; }
+
+/*# sourceMappingURL=people.css.map */

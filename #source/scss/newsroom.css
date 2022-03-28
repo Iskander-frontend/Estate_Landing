@@ -1,0 +1,39 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/newsroom\.scss}line{font-family:\000033}}
+.newsroom {
+  background: #FAFAFC;
+  padding: 6.25rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/newsroom\.scss}line{font-family:\000037}}
+.newsroom__items {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.25rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/newsroom\.scss}line{font-family:\0000312}}
+.newsroom__item {
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
+  -webkit-border-radius: 0.625rem;
+  -moz-border-radius: 10.625rem;
+  border-radius: 0.625rem;
+  overflow: hidden;
+  background: #fff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/newsroom\.scss}line{font-family:\0000321}}
+.newsroom__text {
+  padding: 1.875rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/newsroom\.scss}line{font-family:\0000323}}
+  .newsroom__text .desc {
+    padding: 0.625rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/newsroom\.scss}line{font-family:\0000327}}
+.newsroom__top {
+  text-align: center;
+  padding-bottom: 1.25rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/newsroom\.scss}line{font-family:\0000331}}
+.newsroom__bottom {
+  display: flex;
+  justify-content: center;
+  padding-top: 1.25rem; }
+
+/*# sourceMappingURL=newsroom.css.map */

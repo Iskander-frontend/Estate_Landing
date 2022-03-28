@@ -1,0 +1,66 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\000033}}
+.requirement__box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6.25rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\000039}}
+.requirement__title {
+  text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000311}}
+  .requirement__title .desc {
+    padding: 15px 0 30px 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000315}}
+.requirement__items {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000320}}
+.requirement__item {
+  max-width: 15.625rem;
+  padding: 1.25rem;
+  border-radius: 10px;
+  border: 1px solid rgba(202, 204, 209, 0.2); }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000325}}
+  .requirement__item img {
+    background: #45525B;
+    padding: 12px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000330}}
+.requirement-item__title {
+  letter-spacing: 2px;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  padding: 10px 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000336}}
+.requirement-item__desc {
+  font-size: 0.875rem;
+  color: #6F7278; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000341}}
+.requirement__content {
+  display: flex;
+  gap: 30px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000344}}
+  .requirement__content img {
+    max-width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000348}}
+.requirement__box-second {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 6.25rem;
+  padding: 6.25rem 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000354}}
+  .requirement__box-second .desc {
+    padding: 0.625rem 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/requirement\.scss}line{font-family:\0000357}}
+  .requirement__box-second img {
+    max-width: 100%; }
+
+/*# sourceMappingURL=requirement.css.map */

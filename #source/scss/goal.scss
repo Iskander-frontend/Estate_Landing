@@ -1,0 +1,20 @@
+@import "vars";
+
+.goal{
+  background: $section-bg;
+}
+.goal__inner{
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(2, 50%);
+  padding: 6.25rem 0;
+  .section__title{
+    font-size: 3rem;
+    line-height: 120%;
+  }
+}
+.goal__text{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}

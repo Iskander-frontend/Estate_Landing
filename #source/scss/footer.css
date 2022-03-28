@@ -1,0 +1,96 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\000034}}
+.footer {
+  background: #292C32;
+  color: #fff;
+  padding: 6.25rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\000039}}
+.footer__top {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 4.688rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000314}}
+.footer__bottom {
+  display: flex;
+  justify-content: space-between; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000318}}
+.footer__item {
+  padding-bottom: 0.625rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000321}}
+.footer__title {
+  color: #FF8A63;
+  padding-bottom: 1.25rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000325}}
+.footer__link {
+  transition: all .2s ease; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000327}}
+  .footer__link:hover {
+    color: #6F7278; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000331}}
+.footer__desc {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1.875rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000335}}
+  .footer__desc .desc {
+    color: #fff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000339}}
+.footer__social {
+  display: flex;
+  gap: 1.25rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000342}}
+  .footer__social a path {
+    transition: ease .3s ease; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000345}}
+  .footer__social a:hover:nth-child(1) path {
+    fill: #0077B5; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000348}}
+  .footer__social a:hover:nth-child(2) path {
+    fill: #4267B2; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000351}}
+  .footer__social a:hover:nth-child(3) path {
+    fill: #e33f5f; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000354}}
+  .footer__social a:hover:nth-child(4) path {
+    fill: #1DA1F2; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000358}}
+.footer__bottom {
+  display: grid;
+  grid-template-columns: repeat(4, 25%); }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000362}}
+.form {
+  display: flex;
+  justify-content: space-around;
+  padding: 0.438rem 0 0.438rem 1.5rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  background: #fff;
+  margin-top: 0.625rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000370}}
+  .form .filled__btn {
+    background: #333;
+    color: #fff; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000375}}
+.footer__input {
+  border: none;
+  font-family: Poppins, sans-serif;
+  max-width: 6.25rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000379}}
+  .footer__input:focus {
+    outline: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/footer\.scss}line{font-family:\0000383}}
+.form__confirm {
+  border: none;
+  cursor: pointer; }
+
+/*# sourceMappingURL=footer.css.map */

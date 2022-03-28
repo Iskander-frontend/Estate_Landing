@@ -1,0 +1,39 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/testimonials\.scss}line{font-family:\000033}}
+.testimonials {
+  margin: 6.25rem 0 10.625rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/testimonials\.scss}line{font-family:\000036}}
+.swiper {
+  max-height: 25rem;
+  padding: 1.25rem 3.5rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/testimonials\.scss}line{font-family:\0000310}}
+.swiper-slide {
+  color: #333;
+  border: 1px solid rgba(82, 80, 59, 0.1);
+  border-radius: 4px;
+  padding: 1.875rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/testimonials\.scss}line{font-family:\0000316}}
+.swiper__desc {
+  padding: 0.625rem 0 1.25rem 0; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/testimonials\.scss}line{font-family:\0000319}}
+.swiper-button-prev:after {
+  content: url("../img/icons/slider-arrow-prev.svg");
+  padding: 0.625rem 1.25rem;
+  border: 2px solid #52503B;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/testimonials\.scss}line{font-family:\0000327}}
+.swiper-button-next:after {
+  content: url("../img/icons/slider-arrow-next.svg");
+  padding: 0.625rem 1.25rem;
+  border: 1px solid #52503B;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%; }
+
+/*# sourceMappingURL=testimonials.css.map */

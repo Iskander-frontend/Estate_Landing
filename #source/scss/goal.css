@@ -1,0 +1,22 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/goal\.scss}line{font-family:\000033}}
+.goal {
+  background: #FAFAFC; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/goal\.scss}line{font-family:\000036}}
+.goal__inner {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(2, 50%);
+  padding: 6.25rem 0; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/goal\.scss}line{font-family:\0000311}}
+  .goal__inner .section__title {
+    font-size: 3rem;
+    line-height: 120%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Iskander\/WebstormProjects\/Estate\/\%23source\/scss\/goal\.scss}line{font-family:\0000316}}
+.goal__text {
+  display: flex;
+  flex-direction: column;
+  gap: 15px; }
+
+/*# sourceMappingURL=goal.css.map */

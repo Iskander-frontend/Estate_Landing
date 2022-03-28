@@ -1,0 +1,43 @@
+@import "vars";
+
+.listing{
+  background: $section-bg;
+  padding: 6.25rem 0;
+}
+.listing__top{
+  max-width: 50%;
+  padding-bottom: 30px;
+}
+.listing__bottom{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.listing__items{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1.25rem;
+}
+.listing__item{
+  text-align: center;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.03);
+  border-radius: 8px;
+  img{
+    max-width: 100%;
+  }
+}
+.listing__icons{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.listing__icon {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.listing__text{
+  padding: 1.25rem;
+}
